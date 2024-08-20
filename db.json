@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Nguyễn Văn A",
+      "age": 25
+    },
+    {
+      "id": 2,
+      "name": "Trần Thị B",
+      "age": 30
+    },
+    {
+      "id": 3,
+      "name": "Lê Văn C",
+      "age": 28
+    },
+    {
+      "id": "1251",
+      "name": "dnn",
+      "age": "2"
+    }
+  ]
+}
